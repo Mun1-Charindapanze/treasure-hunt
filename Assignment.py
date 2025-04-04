@@ -51,7 +51,7 @@ def treasure_hunt():
         print(f"\n Congratulations! You found the treasure behind the {treasure_door.upper()} door! 🎉")
         print(f"Your intuition score was {score}/3")
     else:
-        print(f"\n Oh no! The treasure was behind the {treasure_door.upper()} door.")
+        print(f"\n  The treasure was behind the {treasure_door.upper()} door.")
         print(f"Your intuition score was {score}/3 - better luck next time!")
 
 # Start the game
